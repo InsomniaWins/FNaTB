@@ -1,2 +1,0 @@
-The source of this project has been split into multiple zip files to stay in the confines of GitHub's file size limits.
-Put all extracted folders into one folder to make the Game Maker Studio project folder.
